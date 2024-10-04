@@ -1,0 +1,41 @@
+#header{
+    margin: 0 auto;
+    text-align: center;
+}
+#nav
+{
+    background-color:lightblue;
+    padding: 1rem;
+    box-shadow: 1rem;
+
+}
+#nav a
+{
+    margin-right: 50px;
+    text-decoration: none;
+    color: black;
+}
+#nav a :hover
+{
+    color: white;
+}
+#imgPortada
+{
+    width:100%;
+    height: 20rem;
+}
+
+#imagenes 
+{
+    margin: 0 auto;
+    display:inline;
+}
+#imagenes h2
+{
+    text-align: center;
+}
+
+#imagenes div{
+
+    
+}
